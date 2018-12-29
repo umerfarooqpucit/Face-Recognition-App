@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435675721507",
+    "firebase_url": "https://smartgallery-f6f9a.firebaseio.com",
+    "project_id": "smartgallery-f6f9a",
+    "storage_bucket": "smartgallery-f6f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435675721507:android:d41847d7c9aa0a70",
+        "android_client_info": {
+          "package_name": "com.example.umer.smartgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435675721507-k8lcjava09a9rpq4cqvogh7b6csbfj2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umer.smartgallery",
+            "certificate_hash": "93741293ae182c7b4990ff8a975834a551ec83b4"
+          }
+        },
+        {
+          "client_id": "435675721507-d63i7g7ao62psbmg6u6md1k363ttav5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkfacgtc6Pmp_vHWjkpp-yT_7OeMBxhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435675721507-d63i7g7ao62psbmg6u6md1k363ttav5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
